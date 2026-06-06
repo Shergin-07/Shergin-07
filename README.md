@@ -9,7 +9,6 @@
 - React.js
 - Node.js
 - Python
-- Data Engineering
 - Cloud Technologies
 
 📍 Location: Tamil Nadu, India
@@ -19,7 +18,6 @@
 ## 🛠️ Skills
 
 ### Programming Languages
-- C
 - Python
 - JavaScript
 - SQL
